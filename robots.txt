@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://biredrot.github.io/sitemap
+Sitemap: https://biredrot.github.io/app/sitemap
+Sitemap: https://biredrot.github.io/assets/sitemap
+Sitemap: https://biredrot.github.io/css/sitemap
+Sitemap: https://biredrot.github.io/includes/sitemap
+Sitemap: https://biredrot.github.io/item/sitemap
+Sitemap: https://biredrot.github.io/src/sitemap
